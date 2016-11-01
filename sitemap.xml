@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>http://jbake.org/about.html</loc>
+        <lastmod>2016-11-01</lastmod>
+    </url>
+    <url>
+        <loc>http://jbake.org/blog/2016/interoperabilidad-jruby.html</loc>
+        <lastmod>2016-05-31</lastmod>
+    </url>
+    <url>
+        <loc>http://jbake.org/blog/2016/introduccion-a-spring-boot.html</loc>
+        <lastmod>2016-03-01</lastmod>
+    </url>
+    <url>
+        <loc>http://jbake.org/blog/2016/introduccion-a-vertx.html</loc>
+        <lastmod>2016-01-26</lastmod>
+    </url>
+    <url>
+        <loc>http://jbake.org/blog/2015/realtime-applications-with-websockets.html</loc>
+        <lastmod>2015-12-01</lastmod>
+    </url>
+    <url>
+        <loc>http://jbake.org/blog/2015/introduccioon-a-spark.html</loc>
+        <lastmod>2015-10-27</lastmod>
+    </url>
+    <url>
+        <loc>http://jbake.org/blog/2015/introduccion-a-scala.html</loc>
+        <lastmod>2015-09-29</lastmod>
+    </url>
+</urlset>

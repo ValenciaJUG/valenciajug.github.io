@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JBake</title>
+    <link>http://jbake.org</link>
+    <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml" />
+    <description>JBake Bootstrap Template</description>
+    <language>en-gb</language>
+    <pubDate>Tue, 1 Nov 2016 10:23:19 +0100</pubDate>
+    <lastBuildDate>Tue, 1 Nov 2016 10:23:19 +0100</lastBuildDate>
+
+    <item>
+      <title>#6: Interoperabilidad entre JRuby y otros lenguajes de la JVM</title>
+      <link>http://jbake.org/blog/2016/interoperabilidad-jruby.html</link>
+      <pubDate>Tue, 31 May 2016 00:00:00 +0200</pubDate>
+      <guid isPermaLink="false">blog/2016/interoperabilidad-jruby.html</guid>
+      	<description>
+	&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=bv-Br9KRRd4&quot;&gt;Vídeo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ponente: Eduardo Sebastián (&lt;a href=&quot;https://twitter.com/esebastian&quot;&gt;@esebastian&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+	</description>
+    </item>
+    <item>
+      <title>#5: De 0 a 100 con Spring Boot y Spring Cloud </title>
+      <link>http://jbake.org/blog/2016/introduccion-a-spring-boot.html</link>
+      <pubDate>Tue, 1 Mar 2016 00:00:00 +0100</pubDate>
+      <guid isPermaLink="false">blog/2016/introduccion-a-spring-boot.html</guid>
+      	<description>
+	&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=H1A_d04hiKY&quot;&gt;Vídeo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ponente: Javier Rodríguez (&lt;a href=&quot;https://twitter.com/jarodllo&quot;&gt;@jarodllo&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+	</description>
+    </item>
+    <item>
+      <title>#4: Introducción a Vert.x</title>
+      <link>http://jbake.org/blog/2016/introduccion-a-vertx.html</link>
+      <pubDate>Tue, 26 Jan 2016 00:00:00 +0100</pubDate>
+      <guid isPermaLink="false">blog/2016/introduccion-a-vertx.html</guid>
+      	<description>
+	&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=2UYKrWrbBRI&quot;&gt;Vídeo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ponente: Erik Torres (&lt;a href=&quot;https://github.com/etorres&quot;&gt;@etorres&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+	</description>
+    </item>
+    <item>
+      <title>#3: Realtime Application with (Web)Sockets</title>
+      <link>http://jbake.org/blog/2015/realtime-applications-with-websockets.html</link>
+      <pubDate>Tue, 1 Dec 2015 00:00:00 +0100</pubDate>
+      <guid isPermaLink="false">blog/2015/realtime-applications-with-websockets.html</guid>
+      	<description>
+	&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=2vABxgB3g4Q&quot;&gt;Vídeo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ponente: Pablo Monterde (&lt;a href=&quot;https://twitter.com/pablomonterdep&quot;&gt;@pablomonterdep&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+	</description>
+    </item>
+    <item>
+      <title>#2: Introducción a Spark</title>
+      <link>http://jbake.org/blog/2015/introduccioon-a-spark.html</link>
+      <pubDate>Tue, 27 Oct 2015 00:00:00 +0100</pubDate>
+      <guid isPermaLink="false">blog/2015/introduccioon-a-spark.html</guid>
+      	<description>
+	&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=HVadE392uo4&quot;&gt;Vídeo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ponente: Federico Arnao Martín&lt;/li&gt;
+&lt;/ul&gt;
+	</description>
+    </item>
+    <item>
+      <title>#1: Introducción a Scala</title>
+      <link>http://jbake.org/blog/2015/introduccion-a-scala.html</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 +0200</pubDate>
+      <guid isPermaLink="false">blog/2015/introduccion-a-scala.html</guid>
+      	<description>
+	&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/moliware/introduccion-a-scala&quot;&gt;Prensentación&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=QqFVwypS_aY&quot;&gt;Vídeo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ponente: Miguel Olivares (&lt;a href=&quot;https://twitter.com/moliware&quot;&gt;@moliware&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+	</description>
+    </item>
+
+  </channel> 
+</rss>
