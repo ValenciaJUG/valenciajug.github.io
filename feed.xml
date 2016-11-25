@@ -6,13 +6,13 @@
     <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Tue, 1 Nov 2016 10:23:19 +0100</pubDate>
-    <lastBuildDate>Tue, 1 Nov 2016 10:23:19 +0100</lastBuildDate>
+    <pubDate>vie, 25 nov 2016 18:57:12 +0100</pubDate>
+    <lastBuildDate>vie, 25 nov 2016 18:57:12 +0100</lastBuildDate>
 
     <item>
       <title>#6: Interoperabilidad entre JRuby y otros lenguajes de la JVM</title>
       <link>http://jbake.org/blog/2016/interoperabilidad-jruby.html</link>
-      <pubDate>Tue, 31 May 2016 00:00:00 +0200</pubDate>
+      <pubDate>mar, 31 may 2016 00:00:00 +0200</pubDate>
       <guid isPermaLink="false">blog/2016/interoperabilidad-jruby.html</guid>
       	<description>
 	&lt;ul&gt;
@@ -22,12 +22,13 @@
 	</description>
     </item>
     <item>
-      <title>#5: De 0 a 100 con Spring Boot y Spring Cloud </title>
+      <title>#5: De 0 a 100 con Spring Boot y Spring Cloud</title>
       <link>http://jbake.org/blog/2016/introduccion-a-spring-boot.html</link>
-      <pubDate>Tue, 1 Mar 2016 00:00:00 +0100</pubDate>
+      <pubDate>mar, 1 mar 2016 00:00:00 +0100</pubDate>
       <guid isPermaLink="false">blog/2016/introduccion-a-spring-boot.html</guid>
       	<description>
 	&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.slideshare.net/JavierRodriguezLlore/de-zero-a-100-con-spring-boot&quot;&gt;Prensentación&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=H1A_d04hiKY&quot;&gt;Vídeo&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Ponente: Javier Rodríguez (&lt;a href=&quot;https://twitter.com/jarodllo&quot;&gt;@jarodllo&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
@@ -36,7 +37,7 @@
     <item>
       <title>#4: Introducción a Vert.x</title>
       <link>http://jbake.org/blog/2016/introduccion-a-vertx.html</link>
-      <pubDate>Tue, 26 Jan 2016 00:00:00 +0100</pubDate>
+      <pubDate>mar, 26 ene 2016 00:00:00 +0100</pubDate>
       <guid isPermaLink="false">blog/2016/introduccion-a-vertx.html</guid>
       	<description>
 	&lt;ul&gt;
@@ -48,10 +49,11 @@
     <item>
       <title>#3: Realtime Application with (Web)Sockets</title>
       <link>http://jbake.org/blog/2015/realtime-applications-with-websockets.html</link>
-      <pubDate>Tue, 1 Dec 2015 00:00:00 +0100</pubDate>
+      <pubDate>mar, 1 dic 2015 00:00:00 +0100</pubDate>
       <guid isPermaLink="false">blog/2015/realtime-applications-with-websockets.html</guid>
       	<description>
 	&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.slideshare.net/PabloMonterdePerez/realtime-applications-with-sockets-and-websockets-introduction-to-smartfoxserver-2x&quot;&gt;Prensentación&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=2vABxgB3g4Q&quot;&gt;Vídeo&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Ponente: Pablo Monterde (&lt;a href=&quot;https://twitter.com/pablomonterdep&quot;&gt;@pablomonterdep&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
@@ -60,7 +62,7 @@
     <item>
       <title>#2: Introducción a Spark</title>
       <link>http://jbake.org/blog/2015/introduccioon-a-spark.html</link>
-      <pubDate>Tue, 27 Oct 2015 00:00:00 +0100</pubDate>
+      <pubDate>mar, 27 oct 2015 00:00:00 +0100</pubDate>
       <guid isPermaLink="false">blog/2015/introduccioon-a-spark.html</guid>
       	<description>
 	&lt;ul&gt;
@@ -72,7 +74,7 @@
     <item>
       <title>#1: Introducción a Scala</title>
       <link>http://jbake.org/blog/2015/introduccion-a-scala.html</link>
-      <pubDate>Tue, 29 Sep 2015 00:00:00 +0200</pubDate>
+      <pubDate>mar, 29 sep 2015 00:00:00 +0200</pubDate>
       <guid isPermaLink="false">blog/2015/introduccion-a-scala.html</guid>
       	<description>
 	&lt;ul&gt;
